@@ -1,0 +1,4 @@
+**Database Name: ecommerceapp**
+**admin login : anoush@gmail.com**
+**password: password**
+
